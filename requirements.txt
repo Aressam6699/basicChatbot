@@ -20,7 +20,7 @@ pytz==2020.1
 regex==2020.4.4
 six==1.14.0
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.5.0
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 tflearn @ git+https://github.com/tflearn/tflearn.git@5c23566de6e614a36252a5828d107d001a0d0482
